@@ -1,3 +1,6 @@
+This is me trying Forking and Merging
+
+
 ## Vue 2 has reached End of Life
 
 **You are looking at the now inactive repository for Vue 2. The actively maintained repository for the latest version of Vue is [vuejs/core](https://github.com/vuejs/core).**
@@ -121,4 +124,8 @@ Thank you to all the people who already contributed to Vue!
 
 Copyright (c) 2013-present, Yuxi (Evan) You
 
+
 This is me trying to fork and merge
+=======
+
+Hi there is me trying forking
